@@ -1,5 +1,5 @@
 name: flutter_mi_code
-description: "a mi ui package project."
+description: "A mi ui package project."
 version: 0.0.1
 homepage: https://github.com/m-ice/flutter_mi_code.git
 
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  inspireui: ^2.2.1
 
 dev_dependencies:
   flutter_test:
